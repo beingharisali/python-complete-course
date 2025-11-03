@@ -10,7 +10,7 @@ print(sumOfAllValues(5))
 
 def findCube(num):
     return num*num*num
-print(findCube(5))
+# print(findCube(5))
 
 # variables -> value -> can be used throught the program
 # parameters -> arguments -> can only be used in a specific function
